@@ -33,6 +33,7 @@
 ![](https://img.shields.io/badge/Node.js-informational?style=flat&logo=Node.js&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/Jasmine-informational?style=flat&logo=Jasmine&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/Vite-informational?style=flat&logo=Vite&logoColor=ColorName&color=black)
+![]( https://img.shields.io/badge/any_text-you_like-blue)
 
 
 ##  🌱 Currently learning
